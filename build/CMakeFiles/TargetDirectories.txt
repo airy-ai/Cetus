@@ -1,5 +1,0 @@
-/home/wind2000/Projects/github/crawly/build/CMakeFiles/rebuild_cache.dir
-/home/wind2000/Projects/github/crawly/build/CMakeFiles/edit_cache.dir
-/home/wind2000/Projects/github/crawly/build/src/CMakeFiles/rebuild_cache.dir
-/home/wind2000/Projects/github/crawly/build/src/CMakeFiles/Crawly.dir
-/home/wind2000/Projects/github/crawly/build/src/CMakeFiles/edit_cache.dir
