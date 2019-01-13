@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cJSON.h
+stddef.h
+-
+
+/home/wind2000/Projects/github/crawly/src/cJSON.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+limits.h
+-
+ctype.h
+-
+locale.h
+-
+cJSON.h
+/home/wind2000/Projects/github/crawly/src/cJSON.h
+
+/home/wind2000/Projects/github/crawly/src/main.c
+stddef.h
+-
+stdio.h
+-
+stdlib.h
+-
+cJSON.h
+/home/wind2000/Projects/github/crawly/src/cJSON.h
+

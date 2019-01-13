@@ -1,0 +1,1 @@
+/usr/bin/clang    CMakeFiles/Crawly.dir/main.c.o CMakeFiles/Crawly.dir/cJSON.c.o  -o ../bin/Crawly 
