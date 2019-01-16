@@ -1,2 +1,2 @@
-# crawly
+# Cetus
 Open source podcast crawler
